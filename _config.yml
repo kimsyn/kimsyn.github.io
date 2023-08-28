@@ -3,8 +3,16 @@ subtitle : shine 블로그에 오신 것을 환영합니다 😎
 baseurl: "/kimsyn" # the subpath of your site, e.g. /blog
 url: "https://kimsyn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author
-author: shine 
+
+# Edit Author details (For multi authors check _data/authors.yml)
+author_logo: profile.png
+author: ochor
+author_bio: Hi, my name is ochot. I built this site using devlopr-jekyll :D
+author_email: "ocheaurora@gmail.com"
+author_location: Korea(Republic of)
+author_website_url: "https://ochor.github.io"
+typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
 # Build settings
